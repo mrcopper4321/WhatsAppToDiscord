@@ -1,16 +1,16 @@
-# WhatsApp To Discord
+id= # WhatsApp To Discord
 
-WhatsAppToDiscord is a Discord bot that uses WhatsApp Web as a bridge between Discord and WhatsApp. It is built on top of [discord.js](https://github.com/discordjs/discord.js) and [Baileys](https://github.com/WhiskeySockets/Baileys) libraries.
+WhatsAppToDiscord adalah bot Discord yang menggunakan WhatsApp Web sebagai penghubung antara Discord dan WhatsApp. Bot ini dibangun di atas pustaka [discord.js] (https://github.com/discordjs/discord.js) dan [Baileys] (https://github.com/WhiskeySockets/Baileys).
 
-### Features
+### Fitur-fitur
 
-- Supports media (Image, Video, Audio, Document, Stickers) and reactions!
-- Allows whitelisting, so you can choose what to see on Discord
-- Allows usage of WhatsApp through the Discord overlay
-- It uses less memory as it doesn't simulate a browser
-- Open Source, you can see, modify and run your own version of the bot!
-- Self Hosted, so your data never leaves your computer
+- Mendukung media (Gambar, Video, Audio, Dokumen, Stiker) dan reaksi!
+- Memungkinkan daftar putih, sehingga Anda dapat memilih apa yang akan dilihat di Discord
+- Memungkinkan penggunaan WhatsApp melalui hamparan Discord
+- Menggunakan lebih sedikit memori karena tidak mensimulasikan peramban
+- Open Source, Anda dapat melihat, memodifikasi, dan menjalankan bot versi Anda sendiri!
+- Di-host sendiri, sehingga data Anda tidak pernah meninggalkan komputer Anda
 
 ---
 
-### For setup and commands, check out the [documentation](https://fklc.github.io/WhatsAppToDiscord/)!
+### Untuk pengaturan dan perintah, lihat [dokumentasi](https://fklc.github.io/WhatsAppToDiscord/)!
