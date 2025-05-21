@@ -12,7 +12,7 @@ WhatsAppToDiscord adalah bot Discord yang menggunakan WhatsApp Web sebagai pengh
 - Memungkinkan penggunaan WhatsApp melalui hamparan Discord
 - Menggunakan lebih sedikit memori karena tidak mensimulasikan peramban
 - Open Source, Anda dapat melihat, memodifikasi, dan menjalankan bot versi Anda sendiri!
-- Di-host sendiri, sehingga data Anda tidak pernah meninggalkan komputer Anda
+__- Di-host sendiri, sehingga data Anda tidak pernah meninggalkan komputer Anda__
 
 ---
 
