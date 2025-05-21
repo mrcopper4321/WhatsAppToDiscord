@@ -1,4 +1,5 @@
-id= # WhatsApp To Discord
+ # WhatsApp To Discord
+ id=
 
 **Untuk Mulai Masuk Website Resmi= https://github.com/FKLC/WhatsAppToDiscord**
 
