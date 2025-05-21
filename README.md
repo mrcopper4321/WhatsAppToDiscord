@@ -1,5 +1,7 @@
 id= # WhatsApp To Discord
 
+**Untuk Mulai Masuk Website Resmi= https://github.com/FKLC/WhatsAppToDiscord**
+
 WhatsAppToDiscord adalah bot Discord yang menggunakan WhatsApp Web sebagai penghubung antara Discord dan WhatsApp. Bot ini dibangun di atas pustaka [discord.js] (https://github.com/discordjs/discord.js) dan [Baileys] (https://github.com/WhiskeySockets/Baileys).
 
 ### Fitur-fitur
