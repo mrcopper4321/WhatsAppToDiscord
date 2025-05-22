@@ -30,8 +30,8 @@ https://github.com/user-attachments/assets/409f1ec2-c5b1-4e75-a3f6-a51ed58ed4d9
 https://github.com/user-attachments/assets/839bf6ca-840f-41c2-b928-aed542b3e711
 
 Kamu Bisa Check Tutorial Lebih Lanjut di
-Link ini= [dokumentasi](https://fklc.github.io/WhatsAppToDiscord/)
-
+Link ini English version (old Version) = [dokumentasi](https://fklc.github.io/WhatsAppToDiscord/)
+Versi Indonesia ini (Website Belum Selesai) = [whatsapptodiscord new tutorial indonesian](https://sites.google.com/view/whatsapptodiscord/halaman-muka)
 
 
 
