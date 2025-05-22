@@ -21,7 +21,7 @@ Versi Indonesia ini (Website Belum Selesai) = [whatsapptodiscord new tutorial in
 # Tutorial Download
 
 
-# In Website
+# In Website (Old Tutorial)
 
 https://github.com/user-attachments/assets/409f1ec2-c5b1-4e75-a3f6-a51ed58ed4d9
 
