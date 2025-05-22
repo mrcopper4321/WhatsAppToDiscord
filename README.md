@@ -17,7 +17,7 @@ WhatsAppToDiscord adalah bot Discord yang menggunakan WhatsApp Web sebagai pengh
 ---
 
 ### Untuk pengaturan dan perintah, lihat [dokumentasi](https://fklc.github.io/WhatsAppToDiscord/)! 
-Versi Indonesia ini = https://sites.google.com/view/whatsapptodiscord/halaman-muka
+Versi Indonesia ini (Website Belum Selesai) = https://sites.google.com/view/whatsapptodiscord/halaman-muka
 # Tutorial Download
 
 
